@@ -1,0 +1,15 @@
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\obj\Debug\netcoreapp3.1\Bussiness_layer.csproj.AssemblyReference.cache
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\obj\Debug\netcoreapp3.1\Bussiness_layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\obj\Debug\netcoreapp3.1\Bussiness_layer.AssemblyInfoInputs.cache
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\obj\Debug\netcoreapp3.1\Bussiness_layer.AssemblyInfo.cs
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\obj\Debug\netcoreapp3.1\Bussiness_layer.csproj.CoreCompileInputs.cache
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\bin\Debug\netcoreapp3.1\Bussiness_layer.deps.json
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\bin\Debug\netcoreapp3.1\Bussiness_layer.dll
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\bin\Debug\netcoreapp3.1\Bussiness_layer.pdb
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\bin\Debug\netcoreapp3.1\Models_Layer.dll
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\bin\Debug\netcoreapp3.1\Repository_Layer.dll
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\bin\Debug\netcoreapp3.1\Repository_Layer.pdb
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\bin\Debug\netcoreapp3.1\Models_Layer.pdb
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\obj\Debug\netcoreapp3.1\Bussiness_layer.csproj.CopyComplete
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\obj\Debug\netcoreapp3.1\Bussiness_layer.dll
+C:\Users\sagir\Desktop\Webforms\Bussiness_layer\obj\Debug\netcoreapp3.1\Bussiness_layer.pdb

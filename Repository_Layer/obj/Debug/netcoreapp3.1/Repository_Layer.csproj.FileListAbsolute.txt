@@ -1,0 +1,13 @@
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\bin\Debug\netcoreapp3.1\Repository_Layer.deps.json
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\bin\Debug\netcoreapp3.1\Repository_Layer.dll
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\bin\Debug\netcoreapp3.1\Repository_Layer.pdb
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\bin\Debug\netcoreapp3.1\Models_Layer.dll
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\bin\Debug\netcoreapp3.1\Models_Layer.pdb
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\obj\Debug\netcoreapp3.1\Repository_Layer.csproj.AssemblyReference.cache
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\obj\Debug\netcoreapp3.1\Repository_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\obj\Debug\netcoreapp3.1\Repository_Layer.AssemblyInfoInputs.cache
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\obj\Debug\netcoreapp3.1\Repository_Layer.AssemblyInfo.cs
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\obj\Debug\netcoreapp3.1\Repository_Layer.csproj.CoreCompileInputs.cache
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\obj\Debug\netcoreapp3.1\Repository_Layer.csproj.CopyComplete
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\obj\Debug\netcoreapp3.1\Repository_Layer.dll
+C:\Users\sagir\Desktop\Webforms\Repository_Layer\obj\Debug\netcoreapp3.1\Repository_Layer.pdb

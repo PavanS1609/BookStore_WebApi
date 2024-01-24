@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzHgeT4ZplS8XNMZH9vxmOphPyFpx9le74mkxpk3QCb7cigPUcNrzVkDh/lsIXu+BX7nMwueOvfvBM65Z/nKXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sagir\\Desktop\\Webforms\\BookStore-Api\\Models_Layer\\Models_Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagir\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
